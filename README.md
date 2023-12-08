@@ -11,10 +11,17 @@
 
 - 📫 How to reach me **mostaq99muzahid@gmail.com**
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<a href="https://twitter.com/mostaqmuzahid27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mostaqmuzahid27" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mostaq-muzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mostaq-mujahid-moin-2702881ba/" height="30" width="40" /></a>
 <a href="https://fb.com/mostaq.muzahid.027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostaq.muzahid.027" height="30" width="40" /></a>
+<a href="/https://discord.com/users/#9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/#9993" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 ## :computer: Technologies that I know
 <table align="center"><tr><td valign="top" width="33%">
