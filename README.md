@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.postimg.cc/V6w26nrW/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
