@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/V6w26nrW/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/63ygWbmS/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" align="center" style="width: 100%" />
 </div>  
 
 <br/>
