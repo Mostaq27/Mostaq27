@@ -2,11 +2,17 @@
 <img src="https://i.postimg.cc/V6w26nrW/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" align="center" style="width: 100%" />
 </div>  
 
+<br/>
+
 <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
-<h3 align="center"> a creative force in the realm of front-end development and a passionate Computer Science and Engineering student at RMSTU. Armed with a tech arsenal that includes React.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Firebase, Express.js, MongoDB, and Dysiui, I'm not just coding; I'm sculpting digital experiences.
+<p align="left"> a creative force in the realm of front-end development and a passionate Computer Science and Engineering student at RMSTU. Armed with a tech arsenal that includes React.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Firebase, Express.js, MongoDB, and Dysiui, I'm not just coding; I'm sculpting digital experiences.
+  
+💻 My mission? Transforming lines of code into visually stunning and seamlessly functional interfaces. I thrive on the challenge of turning concepts into reality, and my GitHub is the canvas where innovation meets craftsmanship.</p>
 
-💻 My mission? Transforming lines of code into visually stunning and seamlessly functional interfaces. I thrive on the challenge of turning concepts into reality, and my GitHub is the canvas where innovation meets craftsmanship.</h3>
+<br/>
 
+
+## :eyes: Current overview
 - 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **HTML, CSS,Javascript, react.js**
