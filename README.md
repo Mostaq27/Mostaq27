@@ -12,7 +12,7 @@
 <br/>
 
 
-## :eyes: Current overview
+## :eyes: Current overview 
 - 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **HTML, CSS,Javascript, react.js**
@@ -23,10 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mostaqmuzahid27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mostaqmuzahid27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-mostaq-muzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mostaq-mujahid-moin-2702881ba/" height="30" width="40" /></a>
-<a href="https://fb.com/mostaq.muzahid.027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostaq.muzahid.027" height="30" width="40" /></a>
-<a href="https://discord.com/users/#9993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/#9993" height="30" width="40" /></a>
+<a href="https://twitter.com/mostaqmuzahid27" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter" height="27" style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/md-mostaq-muzahid" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;"  /></a>
+<a href="https://fb.com/mostaq.muzahid.027" target="blank"><img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
 </p>
 
 <br/>
