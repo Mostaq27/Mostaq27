@@ -4,8 +4,10 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
-<p align="left"> a creative force in the realm of front-end development and a passionate Computer Science and Engineering student at Rangamati Science And Technology Universiry. Armed with a tech arsenal that includes React.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Firebase, Express.js, MongoDB, and Dysiui, I'm not just coding; I'm sculpting digital experiences.
+## <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
+<h3 align="center"> A passionate front-end developer </h3>  
+<br/>
+<p align="left">Assalamu Alaikum , I'm Md Mostaq Muzahid Moin, a creative force in the realm of front-end development and a passionate Computer Science and Engineering student at Rangamati Science And Technology Universiry. Armed with a tech arsenal that includes React.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Firebase, Express.js, MongoDB, and Dysiui, I'm not just coding; I'm sculpting digital experiences.
   
 💻 My mission? Transforming lines of code into visually stunning and seamlessly functional interfaces. I thrive on the challenge of turning concepts into reality, and my GitHub is the canvas where innovation meets craftsmanship.</p>
 
