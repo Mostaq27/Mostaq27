@@ -16,7 +16,7 @@
 
  - 🔭 I’m working - On My Personal Project.
 
-- 💬 Ask me about **HTML, CSS,Javascript, react.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, React.JS, Node.JS, Express.JS, MongoDB.**
 
  - 📫 How to reach me **mustaqmujahid123@gmail.com**
 
