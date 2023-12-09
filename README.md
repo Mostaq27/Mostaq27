@@ -7,9 +7,7 @@
 ## <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
 <h3 align="center"> A passionate front-end developer </h3>  
 <br/>
-<p align="left">Assalamu Alaikum , I'm Md Mostaq Muzahid Moin, a creative force in the realm of front-end development and a passionate Computer Science and Engineering student at Rangamati Science And Technology Universiry. Armed with a tech arsenal that includes React.js, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Firebase, Express.js, MongoDB, and Dysiui, I'm not just coding; I'm sculpting digital experiences.
-  
-💻 My mission? Transforming lines of code into visually stunning and seamlessly functional interfaces. I thrive on the challenge of turning concepts into reality, and my GitHub is the canvas where innovation meets craftsmanship.</p>
+<p align="left">Assalamu Alaikum ,I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with  ReactJS, and JavaScript.</p>
 
 <br/>
 
