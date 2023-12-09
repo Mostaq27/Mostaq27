@@ -5,7 +5,7 @@
 
 
 ## <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
-## <h1>🧔 About me </h1>  
+ <h1>🧔 About me </h1>  
 
 <p align="left">Assalamu Alaikum ,I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with  ReactJS, and JavaScript.</p>
 
@@ -17,7 +17,11 @@
 
 - 💬 Ask me about **HTML, CSS,Javascript, react.js**
 
-- 📫 How to reach me **mostaq99muzahid@gmail.com**
+- 📫 How to reach me **mustaqmujahid123@gmail.com**
+
+- 🤔 I’m trying - To Improve My Skills .
+
+-⚡ Fun fact - I love Coding .
 
 <br/>
 
@@ -76,11 +80,21 @@
 <div align="center">
 <a align="center" ><img width="60%"  src="https://github-readme-streak-stats.herokuapp.com?user=Mostaq27&theme=jolly&hide_border=true&border_radius=7.2" alt="GitHub Streak" /></a>
   <p align="center"><img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostaq27&amp;theme=jolly" alt="" title="" /></p>
+  <p width="60%">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostaq27&amp;theme=jolly" alt="" title="" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostaq27&amp;theme=jolly&amp;utcOffset=8" alt="" title="" />
+  </p>
 </div>
 
 <br/>
 
 ## Most Used Languages:
-<p align="center"><img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaq27&show_icons=true&locale=en&layout=compact" alt="mostaq27" /></p>
+<p align="center" >
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostaq27&show_icons=true&locale=en&layout=compact" alt="mostaq27" />
+</p>
+<p align="center"><img width="40%" src="https://api.githubtrends.io/user/svg/Mostaq27/langs?time_range=one_year&amp;theme=classic" alt="mostaq27" title="" />
+
+
+
 
 
