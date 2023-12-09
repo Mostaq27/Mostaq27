@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/63ygWbmS/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" align="center" style="width: 100%" />
 </div>  
 
-<br/>
+
 
 ## <h1 align="center">Hi 👋, I'm Md Mostaq Muzahid Moin</h1>
 <br/>
